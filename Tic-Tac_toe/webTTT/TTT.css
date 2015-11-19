@@ -1,0 +1,22 @@
+.pppp td{
+	width: 100px;
+	height: 100px;
+	font-size: 40px;
+	margin: auto;
+	text-align: center;
+}
+.pppp{
+	border-collapse: collapse;
+	border: 1px black solid;
+}
+.restart{
+	font-size: 20px;
+	font-family: sans-serif;
+	background: lightgray;
+
+}
+
+td:hover{
+	background: lightblue;
+	font-size: 50px;
+}

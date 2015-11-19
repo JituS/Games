@@ -1,0 +1,16 @@
+{
+  "name": "shooting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "games",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jitendra",
+  "license": "ISC",
+  "dependencies": {
+    "axel": "0.0.3",
+    "chalk": "^1.1.1",
+    "keypress": "^0.2.1"
+  }
+}

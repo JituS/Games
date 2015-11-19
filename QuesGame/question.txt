@@ -1,0 +1,214 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------Welcome in Jitendra banega crorepati--------------------------------
+
+
+
+Instructions:
+
+		* This game has 5 questions and every question has 4 options
+		* Answer should be given in capital letters (eg. A, B)
+		* Small letters answer is not allowed
+		* After enter the answers press enter
+		* After play you will get result and performance
+		* Press enter to continue 
+		 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q.1
+		What will be the output of this program
+
+			(function() {
+	  			baz = 5;
+	   			var bar = 10;
+			})();
+
+			console.log(bar);
+
+A. Error					B. null
+C. 10						D. undefined
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q.2
+		What will be the output of this program
+
+			var a=[1,2];
+			var b=[3,4];
+			var c=a.concat(b).concat(5)
+			console.log(c);
+
+A. Error						B. [1,2,3,4,5]
+C. [1,2,3,4]					D. undefined
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q.3
+		What will be the output of this program
+			var a=1.1110;
+			console.log(a.toString().slice(1,2).split());
+
+A. [.]							B. []
+C. ['.']						D. Error
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q.4
+		What will be the output of this program
+
+			var a=111001;
+			console.log(a<<2);
+
+A. 444004						B. 333003
+C. 222002						D. 11111
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q.5
+		What will be the output of this program
+
+			var a=new Array(1,2);
+			console.log(typeof a,a instanceof Array);
+
+A. Array true						B. Array false
+C. object true						D. object false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

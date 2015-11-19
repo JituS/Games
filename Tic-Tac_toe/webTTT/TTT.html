@@ -1,0 +1,33 @@
+<!-- <!DOCTYPE html> -->
+<html>
+<head>
+	<title>Tic-Tac-Toe</title>
+	<link rel="stylesheet" type="text/css" href="TTT.css">
+	<script type="text/javascript" src="newTTT.js" ></script>
+</head>
+<body>
+	<center>
+	<h1><u>Welcome to Tic-Tac-Toe</u></h1>
+		<table border="1"  cellpadding="10" class="pppp">
+		<h2 id="turn">Player 0 turn</h2>
+			<tr>
+				<td id="zeroZero" onclick="main('00')"></td> 
+				<td id="zeroFirst" onclick="main('01')"></td> 
+				<td id="zeroSecond" onclick="main('02')"></td> 
+			</tr><br>
+			<tr>
+				<td id="firstZero" onclick="main('10')"></td> 
+				<td id="firstFirst" onclick="main('11')"></td> 
+				<td id="firstSecond" onclick="main('12')"></td> 
+			</tr><br>
+			<tr>
+				<td id="secondZero" onclick="main('20')"></td> 
+				<td id="secondFirst" onclick="main('21')"></td> 
+				<td id="secondSecond" onclick="main('22')"></td> 
+			</tr>
+		</table>
+		<h1 id="winText"></h1>
+		<a href="TTT.html"><button class="restart">Restart</button></a>
+	</center>
+</body>
+</html>
