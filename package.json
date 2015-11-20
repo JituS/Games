@@ -1,12 +1,12 @@
 {
-  "name": "shooting",
+  "name": "allGames",
   "version": "1.0.0",
   "description": "",
   "main": "games",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "jitendra",
+  "author": "Jitendra Sachdeva",
   "license": "ISC",
   "dependencies": {
     "axel": "0.0.3",
